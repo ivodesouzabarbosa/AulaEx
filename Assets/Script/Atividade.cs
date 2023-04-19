@@ -2,9 +2,8 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Person : MonoBehaviour
+public class Atividade : MonoBehaviour
 {
-    string _nome = "Mario ";
     // Start is called before the first frame update
     void Start()
     {
