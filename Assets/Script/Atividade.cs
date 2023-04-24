@@ -6,10 +6,10 @@ public class Atividade : MonoBehaviour
 {
     //Declarar 3 classes de texto
     //Implemetar valor somenete na 1К
-    //Alterar a 1К variavel
 
     //Na funчуo Start
-    //Concatenatar a 1К e 2К na 3К Variavel
+    //Alterar a 1К variavel
+    //Concatenar a 1К e 2К na 3К Variavel
 
 
     // Start is called before the first frame update
